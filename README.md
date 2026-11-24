@@ -71,7 +71,7 @@ gantt
     dateFormat YYYY-MM-DD
     axisFormat %m/%d
     section 分析
-    A 需求訪談與題目確定      :crit, a, 2026-10-01, 7d
+    A 題目確定      :crit, a, 2026-10-01, 7d
     B 系統分析（hw3）          :crit, b, after a, 10d
     section 設計
     C 系統設計 UML（hw4）      :crit, c, after b, 10d
